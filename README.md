@@ -3,7 +3,7 @@
 
 📍 Cairo, Egypt  
 📧 Email: mahmoudnasr445566@gmail.com 
-🔗 LinkedIn:linkedin.com/in/mahmoud-nasr-91a959267  
+🔗 LinkedIn:https://www.linkedin.com/in/mahmoud-nasr-91a959267?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZrhMedCaRFa1GZrTmWIKUA%3D%3D
 
 ---
 
