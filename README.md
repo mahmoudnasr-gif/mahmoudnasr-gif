@@ -1,4 +1,4 @@
-# 🚀 Mahmoud Mohammed Nasr
+# 🚀 Mahmoud Mohammed Mahmoud Nasr
 ### Biomedical Engineering Student | Software & AI Engineer
 
 📍 Cairo, Egypt  
