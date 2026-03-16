@@ -1,4 +1,4 @@
-# 🚀 Mahmoud Mohammed Mahmoud Nasr
+# 🚀 Mahmoud Nasr
 ### Biomedical Engineering Student | Software & AI Engineer
 
 📍 Cairo, Egypt  
@@ -57,4 +57,7 @@ real-world medical and engineering problems.
 ---
 
 ## 📊 GitHub Stats
-(Optional later)
+
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudnasr-gif&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudnasr-gif&layout=compact&theme=tokyonight)
